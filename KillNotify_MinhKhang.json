@@ -1,6 +1,6 @@
 [
-    {"name": "[ Mặc Định ]", "value": 0, "typekill": 0}
-    {"name": "[ Mặc Định Theo Skin ]", "value": 1, "typekill": 0}
+    {"name": "[ Mặc Định ]", "value": 0, "typeKill": 0},
+    {"name": "[ Mặc Định Theo Skin ]", "value": 1, "typeKill": 0},
     {"name": "[ Triệu Vân ] Thần Tài", "value": 12910, "typeKill": 1},
     {"name": "[ Hayate ] Tu Di Thánh Đế", "value": 13210, "typeKill": 2},
     {"name": "[ Ngộ Không ] Tân Niên Võ Thần", "value": 16710, "typeKill": 3},
