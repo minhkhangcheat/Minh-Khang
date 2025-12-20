@@ -1,5 +1,5 @@
 [
-    {"name": "[ Mặc Định ]", "value": 0, "ButtonID": 0},
+    {"name": "[ Rau Má ]", "value": 0, "ButtonID": 0},
     {"name": "[ Mặc Định Theo Skin ]", "value": 1, "ButtonID": 0},
     {"name": "[ Lauriel ] Vệ Thần", "value": 14111, "ButtonID": 1},
     {"name": "[ Điêu Thuyền ] Eternal Sailor Moon", "value": 15212, "ButtonID": 2},
@@ -49,10 +49,10 @@
     {"name": "[ Elandor ] Chuyến Tàu Mơ Ước", "value": 19908, "ButtonID": 53},
     {"name": "[ iggy ] Rimuru Tempest", "value": 53806, "ButtonID": 54},
     {"name": "[ Qi ] Milim Nava", "value": 52809, "ButtonID": 55},
-    { "name": "[ Aya ] Cinnamorolls Dream", "value": 54309, "ButtonID": 58 },
-    { "name": "[ Arthur ] Pompompurins", "value": 16612, "ButtonID": 57 },
-    { "name": "[ Natalya ] Kuromis Heart", "value": 14214, "ButtonID": 57 },
-    { "name": "[ Veera ] My Melodys Love", "value": 10916, "ButtonID": 59 },
-    { "name": "[ Triệu Vân ] Chiến Thần Vô Song", "value": 12913, "ButtonID": 61 },
+    { "name": "[ Aya ] Cinnamorolls Dream", "value": 54309, "ButtonID": 57 },
+    { "name": "[ Arthur ] Pompompurins", "value": 16612, "ButtonID": 58 },
+    { "name": "[ Natalya ] Kuromis Heart", "value": 14214, "ButtonID": 59 },
+    { "name": "[ Veera ] My Melodys Love", "value": 10916, "ButtonID": 61 },
+    { "name": "[ Triệu Vân ] Chiến Thần Vô Song", "value": 12913, "ButtonID": 60 },
     { "name": "[ Billow ] T-Rex Bất Bại", "value": 59902, "ButtonID": 56 }
 ]
