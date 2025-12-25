@@ -32,7 +32,6 @@
     {"name": "[ Veera ] Thiết Sát Thượng Sinh", "value": 10915, "ButtonID": 30},
     {"name": "[ Yena ] Trấn Yêu Thần Lộc", "value": 15413, "ButtonID": 31},
     {"name": "[ Tel'Annas ] Lân Quang Thánh Điệu", "value": 50119, "ButtonID": 32},
-     {"name": "[ Tel'Annas ] Thứ Nguyên Vệ Thần", "value": 50108, "ButtonID": 50},
     {"name": "[ Butterfly ] Bình Minh Tận Thế", "value": 11620, "ButtonID": 33},
     {"name": "[ Violet ] Nobara Kugisaki", "value": 11120, "ButtonID": 34},
     {"name": "[ Paine ] Megumi Fushiguro", "value": 13706, "ButtonID": 35},
@@ -50,9 +49,10 @@
     {"name": "[ Elandor ] Chuyến Tàu Mơ Ước", "value": 19908, "ButtonID": 53},
     {"name": "[ iggy ] Rimuru Tempest", "value": 53806, "ButtonID": 54},
     {"name": "[ Qi ] Milim Nava", "value": 52809, "ButtonID": 55},
-    { "name": "[ Aya ] Cinnamorolls Dream", "value": 54309, "ButtonID": 60 },
-    { "name": "[ Arthur ] Pompompurins", "value": 16612, "ButtonID": 58 },
-    { "name": "[ Natalya ] Kuromis Heart", "value": 14214, "ButtonID": 59 },
-    { "name": "[ Veera ] My Melodys Love", "value": 10916, "ButtonID": 61 },
-    { "name": "[ Billow ] T-Rex Bất Bại", "value": 59902, "ButtonID": 56 }
+    {"name": "Nút Triệu Vân Chiến Thần Vô Song", "value": 55001, "ButtonID": 43},
+    {"name": "Nút Billow T-Rex Bất Bại", "value": 59902, "ButtonID": 56},
+    {"name": "Nút Arthur Pomopmpurin's Oath", "value": 17409, "ButtonID": 58},
+    {"name": "Nút Nata Kuromi's Heart", "value": 13214, "ButtonID": 59},
+    {"name": "Nút Aya Cinnamoroll dream", "value": 54308, "ButtonID": 60},
+    {"name": "Nút Veera My Melody's Love", "value": 10916, "ButtonID": 61}
 ]
